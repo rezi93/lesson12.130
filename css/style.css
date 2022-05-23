@@ -11,10 +11,15 @@ body{
     background-size: cover;
     display: flex; 
     justify-content: start;
-    position: fixed;
-    
-    
+    position: fixed;  
 }
+.fonts{
+	font-family: "ALK Life", sans-serif;
+}
+.fonts1{
+	font-family: 'ALKDots';
+}
+
 .navigation-box{
     display: flex;
     margin-top: 0px;
@@ -33,6 +38,10 @@ body{
     color: white;
     font-size: 20px;
     font-style: italic;
+}
+.list-a:hover{
+    font-size: 25px;
+    color: red;
 }
 .burger-bar{
     display: none;

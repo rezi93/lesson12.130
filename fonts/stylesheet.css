@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Source Sans Pro';
+    src: url('SourceSansPro-SemiBoldItalic.eot');
+    src: url('SourceSansPro-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('SourceSansPro-SemiBoldItalic.woff2') format('woff2'),
+        url('SourceSansPro-SemiBoldItalic.woff') format('woff'),
+        url('SourceSansPro-SemiBoldItalic.ttf') format('truetype'),
+        url('SourceSansPro-SemiBoldItalic.svg#SourceSansPro-SemiBoldItalic') format('svg');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+

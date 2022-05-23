@@ -5,10 +5,13 @@
     background-color: lightsteelblue;
     display: flex;
     justify-content: flex-start;
+    
 }
 .slider-img{
-    width: 200px;
-    height: 200px;
+    width: 400px;
+    height: 350px;
+    border-radius: 20px;
+    
 }
 .slider-item{
     width: 200px;
@@ -18,5 +21,13 @@
 }
 .slider{
     display: flex;
+    margin-top: 50px;
     
+}
+.slider-img:hover{
+    width: 600px;
+    height: 500px;
+}
+.foot-block{
+    margin-top: 80px;
 }

@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'ALKDots';
+    src: url('../fontsalkdots-webfont.eot'); /* IE9 Compat Modes */
+    src: url('../alkdots-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../alkdots-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../alkdots-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../alkdots-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../alkdots-webfont.svg#alkdotsregular') format('svg'); /* Legacy iOS */
+}
+@font-face {
+    font-family: 'Source Sans Pro';
+    src: url('../fonts/SourceSansPro-SemiBoldItalic.eot');
+    src: url('../fonts/SourceSansPro-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/SourceSansPro-SemiBoldItalic.woff2') format('woff2'),
+        url('../fonts/SourceSansPro-SemiBoldItalic.woff') format('woff'),
+        url('../fonts/SourceSansPro-SemiBoldItalic.ttf') format('truetype'),
+        url('../fonts/SourceSansPro-SemiBoldItalic.svg#SourceSansPro-SemiBoldItalic') format('svg');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
