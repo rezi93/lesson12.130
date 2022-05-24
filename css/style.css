@@ -271,3 +271,54 @@ margin-bottom: 10px;
 .block1-h3{
     font-size: 25px;
 }
+/* contact page */
+.contact-header{
+    max-width: 100%;
+    width: 100%;
+    height: 40px;
+    background-color: lightsteelblue;
+    display: flex;
+    justify-content: flex-start;
+    
+}
+.action{
+    max-width: 100%;
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+}
+.description{
+    width: 250px;
+    height: 300px;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+.input-form{
+    width: 150px;
+    height: 30px;
+    border: none;
+    margin-bottom: 5px;
+   
+   
+
+}
+.input{
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+}
+.send{
+    
+    width: 80px;
+    height: 40px;
+    color: #fff;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    margin-left: 50px;
+    margin-top: 5px;
+}
+
